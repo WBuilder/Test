@@ -8,7 +8,7 @@ var matrixExample = [
 function sumUpDiagonals(matrix)
 {
     var N = matrix.length;
-    var sumMainDiag = 0, sumSecondDiag = 0;
+    var sumMainDiag = sumSecondDiag = 0;
     
     for(let i = 0; i < N; i++ ) {
         if( N != matrix[i].length )

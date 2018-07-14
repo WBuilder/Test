@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example2.js",
+  "directories": {
+    "Test": "Test"
+  },
+  "scripts": {
+    "test": "~/node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WBuilder/Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WBuilder/Test/issues"
+  },
+  "homepage": "https://github.com/WBuilder/Test#readme"
+}
